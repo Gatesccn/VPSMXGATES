@@ -118,7 +118,7 @@ ln -s /usr/share/zoneinfo/America/Chihuahua /etc/localtime &>/dev/null
 rm -rf /usr/local/lib/systemubu1 &> /dev/null 
 clear 
 msg -bar2 
-msg -ama "     [ VPS - MX - SCRIPT \033[1;97m MOD By @ManuVPS \033[1;33m ]" 
+msg -ama "     [ VPS - MX - SCRIPT \033[1;97m MOD By @vpsmxs \033[1;33m ]" 
 msg -bar 
 echo -e "\033[97m" 
 echo -e "  \033[41m    -- INSTALACION DE PAQUETES PARA VPS-MX --    \e[49m" 
